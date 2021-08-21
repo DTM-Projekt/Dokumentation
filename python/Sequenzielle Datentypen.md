@@ -1,0 +1,2 @@
+# Sequenzielle Datentypen
+
