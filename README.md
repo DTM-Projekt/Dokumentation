@@ -1,2 +1,2 @@
 # Dokumentation
-Die Dokumentation des Drehtürmodellprojektes.
+Hier findet ihr die Dokumentation rund um das Drehtürmodellprojekt.
