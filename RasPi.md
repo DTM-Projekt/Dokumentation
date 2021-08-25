@@ -5,7 +5,8 @@ Mein gesamtes Projekt verwirkliche ich auf einem **Raspberry Pi 4** Minicomputer
 ## Warum habe ich mich für den Raspberry Pi entschieden?
 
 - geringe Leistungsaufnahme
-- idealer Projektcomputer
+- geringes Gewicht / geringe Größe
+- passive Kühlung (lautlos)
 - alle nötigen Daten werden auf einer SD-Karte gespeichert:
   - Betriebssystem
   - Entwicklungsumgebung
@@ -16,5 +17,5 @@ Mein gesamtes Projekt verwirkliche ich auf einem **Raspberry Pi 4** Minicomputer
 
 ## Mit welchen Einschränkungen muss ich rechnen?
 
-- einige Programme müssen u.U. von Hand übersetzt (compiliert) werden
-- Schnelligkeit reicht nicht an einen Desktop-PC heran
+- Performance reicht nicht an einen Desktop-PC heran
+- Linux ist als Betriebssystem fast schon Pflicht
