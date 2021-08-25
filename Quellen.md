@@ -2,5 +2,14 @@
 
 Hier findet ihr die für das Drehtürmodellprojekt verwendeten Quellen.
 
-* Icon/Symbol des Drehtürmodells
-  * https://stadtteilschule-kirchwerder.hamburg.de/wp-content/uploads/sites/170/2015/11/Dreht%C3%BCrkonzept-2016.pdf
+Icon/Symbol des Drehtürmodells:
+* https://stadtteilschule-kirchwerder.hamburg.de/wp-content/uploads/sites/170/2015/11/Dreht%C3%BCrkonzept-2016.pdf
+
+Python:
+* https://openbook.rheinwerk-verlag.de/python/34_001.html
+
+4 Gewinnt:
+* https://de.m.wikipedia.org/wiki/Vier_gewinnt
+* https://www.mathematik.uni-muenchen.de/~spielth/artikel/VierGewinnt.pdf
+* https://www.tobiaskohn.ch/jython/students_viergewinnt-de.html
+* https://www.ke.tu-darmstadt.de/lehre/arbeiten/bachelor/2006/Baier_Hendrik.pdf
