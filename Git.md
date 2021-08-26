@@ -18,11 +18,14 @@ git pull
 Gelöschte Remote-Branches werden auch lokal gelöscht:
 ```
 git fetch --prune
+git pull --prune
 git remote update origin --prune
 ```
 
-Die Git-Konfiguration wird so geändert,
-dass zukünftig `git fetch` und `git pull` immer mit der Option `--prune` ausgeführt werden:
+Dieser Befehl ändert die Git-Konfiguration dahingehend,
+dass zukünftig bei sämtlichen Git-Befehlen,
+die diese Option bieten,
+der Schalter `--prune` automatisch gesetzt ist:
 ```
 git config remote.origin.prune true
 ```
