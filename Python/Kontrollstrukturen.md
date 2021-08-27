@@ -16,14 +16,21 @@ Die if-Anweisung führt
 -wenn eine vorgegebene Bedingung zutrifft-
 bestimmten Code aus.
 
-#### Merkmale
+### Merkmale einer if-Anweisung
 
 * Die if-Anweisung besteht aus:
   * dem if
   * der Überprüfung ob im Code vorgegebene Dinge zutreffen oder nicht zutreffen
   * der/den Anweisung/Anweisungen daraufhin
 
-#### Schreiben einer if-Anweisung (Definition)
+### Schreiben einer if-Anweisung (Definition)
+
+* Schreibe das `if` am Anfang der Zeile.
+* Schreibe nach einem Leerzeichen eine `Klammer` und dann in die Klammer die `Überprüfung`.
+* Nach der Klammer wird ein `Doppelpunkt` gesetzt, in die nächste Zeile gegangen und eingerückt.
+* Jetzt werden die auszuführenden `Anweisungen` untereinander gesetzt, die ausgeführt werden sollen, wenn die `Überprüfung` WAHR ist.
+
+__Ergebnis:__
 
 ```
 if (Überprüfung):
@@ -31,25 +38,24 @@ if (Überprüfung):
     Anweisung 2
     Anweisung N
 ```
+
 __Beispiel:__
 
-Schreibe das `if` am Anfang der Zeile. Schreibe dann eine `Klammer` und dann in die Klammer die `Überprüfung`. Nach der Klammer wird ein `Doppelpunkt` gesetzt, in die nächste Zeile gegangen und eingerückt. Jetzt wird der auszuführende `Befehl` aufgeschriben, der ausgeführt wird, wenn die überprüfung das ergeben hat was sie ergeben muss, damit der Befehl ausgeführt wird.
+Gegeben sei:
 ```
-if(1 == 1):
-    print("Ist richtig")
+a = 5
+b = 9
 ```
-
-#### Benutzen des if´s
 
 Überprüfung auf gleichheit:
 ```
-if(5 == 5):
-    print("Entspricht der Wahrheit")
+if(a == 5):
+    print("a ist gleich fünf")
 ```
 Überprüfung auf Ungleichheit:
 ```
-if(5 != 4):
-    print("Entspricht der Wahrheit")
+if(b != 5):
+    print("b ist ungleich 5")
 ```
 Überprüfung ob ein Ausdruck größer als ein Anderer ist:
 ```
