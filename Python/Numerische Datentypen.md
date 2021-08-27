@@ -4,7 +4,7 @@ Der numerische Datentyp kennt nur reine Zahlenwerte.
 
 ## Ganzzahlen (Integer)
 
-Die Menge  der ganzen Zahlen umfasst die natürlichen Zahlen und ihre Gegenzahlen. 
+Die Menge der ganzen Zahlen umfasst die natürlichen Zahlen und ihre Gegenzahlen bis zum Speicherlimit. 
 
 ### Merkmale
 
