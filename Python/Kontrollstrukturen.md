@@ -13,21 +13,23 @@ Eine Fallunterscheidung ermöglicht die bedingte Ausführung von Code.
 ### __if-Anweisung__
 
 Die if-Anweisung führt
--wenn die zugehörige Bedingung zutrifft-
+-wenn eine vorgegebene Bedingung zutrifft-
 bestimmten Code aus.
 
 #### Merkmale
 
 * Die if-Anweisung besteht aus:
   * dem if
-  * der überprüfung ob im Code vorgegebene Dinge zutreffen oder nicht zutreffen
-  * der Anweisung daraufhin
+  * der Überprüfung ob im Code vorgegebene Dinge zutreffen oder nicht zutreffen
+  * der/den Anweisung/Anweisungen daraufhin
 
 #### Schreiben einer if-Anweisung (Definition)
 
 ```
-if-Anweisung (Überprüfung):
-    die Anweisung daraufhin
+if (Überprüfung):
+    Anweisung 1
+    Anweisung 2
+    Anweisung N
 ```
 __Beispiel:__
 
