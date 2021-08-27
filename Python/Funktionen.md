@@ -56,7 +56,3 @@ y = quadrat(5)
 __Beachte:__
 
 Funktionen ohne Rückgabewert werden im Allgemeinen _Prozeduren_ genannt.
-
-## Prominente Funktionen
-
-_print ist auch eine Funktion. Es bedeutet in Python "ausgeben"_
