@@ -11,7 +11,7 @@ Eine Funktion ist ein benanntes Unterprogramm.
   * eine Liste von Parametern
   * einen Rückgabewert
 
-## Definition einer Funktion
+## Schreiben einer Funktion (Definition)
 ```
 def Funktionsname(Parameter_1,...,Parameter_N):
     erste Anweisung im Codeblock
