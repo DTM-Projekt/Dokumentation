@@ -108,76 +108,36 @@ else:
 
 ### __while-Schleife__
 
-Die while-Schleife wiederholt einen Codeblock solange eine im Code bestimmte Bedingung richtig ist.
+Die while-Schleife wiederholt einen Codeblock solange eine vorgegebene Bedingung __wahr__ ist.
 
-#### Merkmale
+### Merkmale einer while-Schleife
 
-* Die while-Schleife besteht mindestens aus:
-  * dem While, der Klammer dannach und ggf. ihrem Inhalt und dem Doppelpunkt dannach
-  * dem codeblock dannach
-  * dem continue am ende des blocks
-* Die while-Schleife kann zusätzlich besitzen:
-  * das break
+Die while-Schleife besteht mindestens aus:
+* dem `while`
+* der Überprüfung
+* der/den Anweisung/Anweisungen der Schleife (Schleifenkörper)
 
-#### Schreiben einer while-Schleife (Definition)
+Die while-Schleife kann zusätzlich besitzen:
+  * das continue im Schleifenkörper
+  * das break im Schleifenkörper
+
+### Schreiben einer while-Schleife (Definition)
+* Schreibe am Anfang der Zeile ein `while`
+* danach schreibe eine `Klammer`, deren Inhalt (Bedingung) und einen `Doppelpunkt`.
+* Schreibe darunter (eingerückt) den gewünschten `Codeblock`, der wiederholt wird, solange die Bedingung wahr ist.
 
 ```
-while(True oder False):
-
-codeblock
-    continue
-.
-.
-.
-codeblock
-    break
+while(Bedingung):
+    Anweisung 1
+    Anweisung 2
+    Anweisung N
 ```
+
 __Beispiel:__  
-Schreibe am Anfang der Zeile ein `while`, eine `Klammer`, ggf. deren Inhalt und ein `Doppelpunkt`. Schreibe zwei Zeilen darunter den gewünschten `Codeblock` der solange wiederholt wird wie er wahr / falsch ist. Jetzt wird ein `continue` geschrieben das bewirkt, dass die Schleife wiederholt wird. 
+Gib die Zahlen von 0 bis 49 auf den Bildschirm aus:
 ```
-while(True):
-
-x = 1
-if(x != 50):
-    x + 1
-    continue
-if(X == 50):
-    break
-```
-
-#### Benutzen einer while-Schleife
-
-Wiederholung solange True:
-```
-x = 1
-
-while(True):
-
-if(x != 50):
-    x + 1
-    continue
-if(x == 50):
-    break
-```
-Wiederholung solange False:
-```
-x = 1
-
-while(False):
-
-if(x == 50):
-    x + 1
-    continue
-if(x != 50):
-    break
-```
-
-Endlosschleife:
-```
-x = 1
-
-while(x == x):
-    x+1
-    continue
-```
-
+x = 0
+while(x < 50):
+    print(x)
+    x += 1
+ ```
