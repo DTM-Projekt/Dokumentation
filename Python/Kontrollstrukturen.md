@@ -1,36 +1,43 @@
-# Kontrollstrukturen 
+# Kontrollstrukturen
 
-Eine Kontrollstruktur dient der Steuerung des Programmablaufs. 
+Eine Kontrollstruktur dient der Steuerung des Programmablaufs.
 
 Es gibt:
-* Fallunterscheidungen (if/else/elif)
-* Schleifen (while/for)
 
-## Fallunterscheidungen (conditional statements)
+- Fallunterscheidung
+- Schleife
+
+# Fallunterscheidungen (conditional statements)
 
 Eine Fallunterscheidung ermöglicht die bedingte Ausführung von Code.
 
-### __if-Anweisung__
+Es gibt:
+
+- if-Anweisung
+- else-Anweisung
+- elif-Anweisung
+
+# Die if-Anweisung
 
 Die if-Anweisung führt
 -wenn eine vorgegebene Bedingung zutrifft-
 bestimmten Code aus.
 
-### Merkmale einer if-Anweisung
+## Merkmale einer if-Anweisung
 
 Die if-Anweisung besteht aus:
-* dem if
-* der Überprüfung ob im Code vorgegebene Dinge zutreffen oder nicht zutreffen
-* der/den Anweisung/Anweisungen daraufhin
 
-### Schreiben einer if-Anweisung (Definition)
+- dem if
+- der Bedingung
+- Anweisungen die ausgeführt werden, wenn die Bedingung zutrifft
 
-* Schreibe das `if` am Anfang der Zeile.
-* Schreibe nach einem Leerzeichen eine `Klammer` und dann in die Klammer die `Überprüfung`.
-* Nach der Klammer wird ein `Doppelpunkt` gesetzt, in die nächste Zeile gegangen und eingerückt.
-* Jetzt werden die auszuführenden `Anweisungen` untereinander gesetzt, die ausgeführt werden sollen, wenn die `Überprüfung` WAHR ist.
+## Schreiben einer if-Anweisung (Definition)
 
-__Ergebnis:__
+- schreibe das Signalwort `if` am Anfang einer Zeile
+- schreibe nach einem Leerzeichen die Bedingung
+- schreibe nach der Bedingung ein `Doppelpunkt`
+- gehe in die nächste Zeile und rücke ein
+- setze `Anweisungen` untereinander, die ausgeführt werden sollen, wenn die Bedingung zutrifft.
 
 ```
 if (Überprüfung):
@@ -39,52 +46,65 @@ if (Überprüfung):
     Anweisung N
 ```
 
-__Beispiel:__
+## Beispiel einer if-Anweisung
 
 Gegeben sei:
+
 ```
 a = 5
 b = 9
 ```
 
 Überprüfung auf Gleichheit:
+
 ```
 if (a == 5):
     print("a ist gleich fünf")
 ```
+
 Überprüfung auf Ungleichheit:
+
 ```
 if (b != 5):
     print("b ist ungleich 5")
 ```
+
 Überprüfung ob ein Ausdruck größer als ein anderer Ausdruck ist:
+
 ```
 if (b > a):
     print("b ist größer a")
 ```
+
 Überprüfung ob ein Ausdruck kleiner als ein anderer Ausdruck ist:
+
 ```
 if (b < a):
    print("b ist kleiner a")
-``` 
+```
 
-### __else-Anweisung__
+# Die else-Anweisung
 
 Die else-Anweisung führt
--wenn die im *if-Block* vorgegebene Bedingung nicht zutrifft-
+-wenn die im _if-Block_ vorgegebene Bedingung nicht zutrifft-
 bestimmten Code aus.
 
-### Merkmale einer else-Anweisung
+## Merkmale einer else-Anweisung
 
 Die else-Anweisung besteht aus:
-* der if-Anweisung davor
-* dem else:    
-* der/den Anweisung/Anweisungen daraufhin
 
-### Schreiben einer else-Anweisung (Definition)
-* Schreibe nach der `if-Anweisung` am Anfang einer neuen Zeile `else` und ein `Doppelpunkt`.
-* Gehe in die nächste Zeile und rücke ein.
-* Schreibe den `Befehl`, den die `else-Anweisung` ausführt, wenn die `if-Bedingung` nicht erfüllt wurde.
+- der if-Anweisung
+- dem else:
+- Anweisungen, die ausgeführt werden, wenn die if-Bedingung nicht zutrifft
+
+## Schreiben einer else-Anweisung (Definition)
+
+- gehe an den Anfang der Zeile nach einem if-Block
+- schreibe das Signalwort `else`
+- schreibe einen Doppelpunkt
+- gehe in die nächste Zeile und rücke ein
+- setze Anweisungen untereinander, die ausgeführt werden, wenn die if-Bedingung nicht zutrifft.
+
 ```
 if (Überprüfung):
     Anweisung 1
@@ -96,7 +116,8 @@ else:
     Anweisung ..
 ```
 
-__Beispiel:__  
+## Beispiel einer else-Anweisung
+
 ```
 if (a == b):
     print("a ist gleich b")
@@ -104,27 +125,83 @@ else:
     print("a ist NICHT gleich b")
 ```
 
-## Schleifen (loops)  
+# Die elif-Anweisung
 
-### __while-Schleife__
+## Merkmale einer elif-Anweisung
 
-Die while-Schleife wiederholt einen Codeblock solange eine vorgegebene Bedingung __wahr__ ist.
+Die else-Anweisung besteht aus:
 
-### Merkmale einer while-Schleife
+- der if-Anweisung
+- der elif-Anweisung
+- der elif-Bedingung
+- Anweisungen, die ausgeführt werden, wenn die if-Bedingung nicht, jedoch die elif-Bedingung zutrifft
+
+## Schreiben einer elif-Anweisung (Definition)
+
+- gehe an den Anfang der Zeile nach einem if-Block
+- schreibe das Signalwort `elif`
+- schreibe nach einem Leerzeichen die elif-Bedingung
+- schreibe einen Doppelpunkt
+- gehe in die nächste Zeile und rücke ein
+- setze Anweisungen untereinander, die ausgeführt werden, wenn die if-Bedingung nicht, jedoch die elif-Bedingung zutrifft
+
+```
+if (if-Bedingung):
+    Anweisung 1
+    Anweisung 2
+    Anweisung ..
+elif (elif-Bedingung):
+    Anweisung A
+    Anweisung B
+    Anweisung ..
+else:
+    Anweisung Z
+    Anweisung Y
+    Anweisung ..
+```
+
+## Beispiel einer elif-Anweisung
+
+```
+a = 1
+b = 2
+if (a == b):
+    print("a ist gleich b")
+elif (b == 2)
+    print("a ist ungleich b und b ist gleich 2")
+```
+
+# Schleifen (loops)
+
+Schleifen wiederholen Anweisungen solange eine Bedingung erfüllt ist.
+
+Es gibt:
+
+- while-Schleifen
+- for-Schleifen
+
+# Die while-Schleife
+
+while-Schleifen wiederholen Anweisungen solange eine Bedingung erfüllt ist. Damit ist sie der Prototyp einer allgemeinen Schleife.
+
+## Merkmale einer while-Schleife
 
 Die while-Schleife besteht mindestens aus:
-* dem `while`
-* der Überprüfung
-* der/den Anweisung/Anweisungen der Schleife (Schleifenkörper)
+
+- dem `while`
+- der Überprüfung
+- der/den Anweisung/Anweisungen der Schleife (Schleifenkörper)
 
 Die while-Schleife kann zusätzlich besitzen:
-  * das continue im Schleifenkörper
-  * das break im Schleifenkörper
 
-### Schreiben einer while-Schleife (Definition)
-* Schreibe am Anfang der Zeile ein `while`
-* danach schreibe eine `Klammer`, deren Inhalt (Bedingung) und einen `Doppelpunkt`.
-* Schreibe darunter (eingerückt) den gewünschten `Codeblock`, der wiederholt wird, solange die Bedingung wahr ist.
+- das continue im Schleifenkörper
+- das break im Schleifenkörper
+
+## Schreiben einer while-Schleife (Definition)
+
+- Schreibe am Anfang der Zeile ein `while`
+- danach schreibe eine `Klammer`, deren Inhalt (Bedingung) und einen `Doppelpunkt`.
+- Schreibe darunter (eingerückt) den gewünschten `Codeblock`, der wiederholt wird, solange die Bedingung wahr ist.
 
 ```
 while(Bedingung):
@@ -133,11 +210,13 @@ while(Bedingung):
     Anweisung N
 ```
 
-__Beispiel:__  
+## Beispiel einer while-Schleife
+
 Gib die Zahlen von 0 bis 49 auf den Bildschirm aus:
+
 ```
 x = 0
 while(x < 50):
     print(x)
     x += 1
- ```
+```
