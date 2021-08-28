@@ -70,66 +70,41 @@ if (b < a):
 
 ### __else-Anweisung__
 
-Die else-Anweisung führt im Code vorgegebene Dinge aus wenn die if-Bedingung nicht erfüllt wurde.
+Die else-Anweisung führt
+-wenn die im *if-Block* vorgegebene Bedingung nicht zutrifft-
+bestimmten Code aus.
 
-#### Merkmale
+### Merkmale einer else-Anweisung
 
-* Die else-Anweisung besteht aus:
-  * der if-Anweisung davor
-  * dem else
-  * der Anweisung daraufhin
+Die else-Anweisung besteht aus:
+* der if-Anweisung davor
+* dem else:    
+* der/den Anweisung/Anweisungen daraufhin
 
-#### Schreiben einer else-Anweisung (Definition)
-
+### Schreiben einer else-Anweisung (Definition)
+* Schreibe nach der `if-Anweisung` am Anfang einer neuen Zeile `else` und ein `Doppelpunkt`.
+* Gehe in die nächste Zeile und rücke ein.
+* Schreibe den `Befehl`, den die `else-Anweisung` ausführt, wenn die `if-Bedingung` nicht erfüllt wurde.
 ```
-if-Anweisung(Überprüfung):
-    die Anweisung daraufhin
-else-Anweisung:
-    die Anweisung daraufhin
+if (Überprüfung):
+    Anweisung 1
+    Anweisung 2
+    Anweisung ..
+else:
+    Anweisung A
+    Anweisung B
+    Anweisung ..
 ```
+
 __Beispiel:__  
-Schreibe nach der `if-Anweisung` am Anfang einer neuen Zeile `else` und ein `Doppelpunkt`. Gehe in die nächste Zeile und rücke ein undd schreibe den `Befehl`, den die `else-Anweisung` ausführt, wenn die `if-Bedingung` nicht erfüllt wurde.
 ```
-if(1 == 2):
-    print("Ist richtig")
+if (a == b):
+    print("a ist gleich b")
 else:
-    print("Ist nicht richtig")
+    print("a ist NICHT gleich b")
 ```
 
-#### Benutzen des elses
-
-__Generell:__ Wenn die if-Bedingung nicht erfüllt wurde:
-```
-if(5 == 6):
-    print("Ist richtig")
-else:
-    print("Ist nicht richtig")
-```
-oder:
-```
-if(5 != 5):
-    print("Ist richtig")
-else:
-    print("Ist nicht richtig")
-```
-oder:
-```
-if(5 > 5):
-    print("Ist richtig")
-else:
-    print("Ist nicht richtig")
-```
-oder:
-```
-if(5 < 5):
-    print("Ist richtig")
-else:
-    print("Ist nicht richtig")
-```
-
-
-
-## Schleifen (loops)
+## Schleifen (loops)  
 
 ### __while-Schleife__
 
