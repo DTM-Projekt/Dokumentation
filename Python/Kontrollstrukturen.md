@@ -18,10 +18,10 @@ bestimmten Code aus.
 
 ### Merkmale einer if-Anweisung
 
-* Die if-Anweisung besteht aus:
-  * dem if
-  * der Überprüfung ob im Code vorgegebene Dinge zutreffen oder nicht zutreffen
-  * der/den Anweisung/Anweisungen daraufhin
+Die if-Anweisung besteht aus:
+* dem if
+* der Überprüfung ob im Code vorgegebene Dinge zutreffen oder nicht zutreffen
+* der/den Anweisung/Anweisungen daraufhin
 
 ### Schreiben einer if-Anweisung (Definition)
 
