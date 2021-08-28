@@ -47,28 +47,26 @@ a = 5
 b = 9
 ```
 
-Überprüfung auf gleichheit:
+Überprüfung auf Gleichheit:
 ```
-if(a == 5):
+if (a == 5):
     print("a ist gleich fünf")
 ```
 Überprüfung auf Ungleichheit:
 ```
-if(b != 5):
+if (b != 5):
     print("b ist ungleich 5")
 ```
-Überprüfung ob ein Ausdruck größer als ein Anderer ist:
+Überprüfung ob ein Ausdruck größer als ein anderer Ausdruck ist:
 ```
-if(5 > 4):
-    print("Entspricht der Wahrheit")
+if (b > a):
+    print("b ist größer a")
 ```
-Überprüfung ob ein Ausdruck kleiner als ein Anderer ist:
+Überprüfung ob ein Ausdruck kleiner als ein anderer Ausdruck ist:
 ```
-if(5 < 6):
-   print("Entspricht der Wahrheit")
+if (b < a):
+   print("b ist kleiner a")
 ``` 
-__Beachte:__  
-Vergleiche können auch mit Variablen durchgeführt werden.
 
 ### __else-Anweisung__
 
