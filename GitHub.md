@@ -4,7 +4,7 @@ Auf der Plattform GitHub:
 
 - verwalte ich mein Projekt
 - mache es öffentlich zugänglich
-- ermögliche anderen Programmierern die Mitarbeit
+- ermögliche Anderen die Mitarbeit
 
 ## Account erstellen
 
