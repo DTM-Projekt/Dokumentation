@@ -66,17 +66,6 @@ pip3 install autopep8
 - suche einen eingängigen Nutzernamen
 - nutze einen eingängigen Email-Account
 
-### _Zwischenschritt: Git lokal einrichten_
-
-```
-git config --global user.name "Your Name"
-git config --global user.email "youremail@yourdomain.com"
-```
-
-### _Projekt erstellen_
-
-- suche einen eingängigen Namen für dein erstes Projekt
-
 ### _Sicheren Zugang (SSH-PSK) einrichten_
 
 (1) Schlüsselpaar erzeugen:
