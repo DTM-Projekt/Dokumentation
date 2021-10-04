@@ -2,8 +2,8 @@
 
 Auf der Plattform GitHub:
 
-- verwalte ich mein Projekt
-- mache es öffentlich zugänglich
+- verwalte ich meine Projekte
+- mache sie öffentlich zugänglich
 - ermögliche anderen Menschen die Mitarbeit
 
 ## Account
