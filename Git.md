@@ -1,6 +1,6 @@
 # Git
 
-Eine kleine Einführung in `Git`.
+Eine kleine Einführung in Git.
 
 ---
 
