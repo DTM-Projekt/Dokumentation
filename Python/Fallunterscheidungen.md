@@ -1,6 +1,6 @@
 # Fallunterscheidungen (conditional statements)
 
-Eine Fallunterscheidung ermöglicht die bedingte Ausführung von Code.
+Eine Fallunterscheidung ist eine __Kontrollstruktur__ und ermöglicht die bedingte Ausführung von Code.
 
 Es gibt:
 
