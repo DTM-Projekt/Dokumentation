@@ -1,6 +1,6 @@
 # Schleifen (loops)
 
-Schleifen sind Kontrollstrukturen, die Anweisungen wiederholen, solange eine Bedingung erfüllt ist.
+Schleifen sind __Kontrollstrukturen__, die Anweisungen wiederholen, solange eine Bedingung erfüllt ist.
 
 Es gibt:
 
