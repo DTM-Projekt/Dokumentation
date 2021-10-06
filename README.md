@@ -12,6 +12,9 @@ Python:
 * https://openbook.rheinwerk-verlag.de/python/34_001.html
 
 4 Gewinnt:
+* https://blog.gamesolver.org/
+* https://github.com/PascalPons/connect4
+* https://tromp.github.io/c4/c4.html
 * https://de.m.wikipedia.org/wiki/Vier_gewinnt
 * https://www.mathematik.uni-muenchen.de/~spielth/artikel/VierGewinnt.pdf
 * https://www.tobiaskohn.ch/jython/students_viergewinnt-de.html
