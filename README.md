@@ -19,3 +19,4 @@ Python:
 * https://www.mathematik.uni-muenchen.de/~spielth/artikel/VierGewinnt.pdf
 * https://www.tobiaskohn.ch/jython/students_viergewinnt-de.html
 * https://www.ke.tu-darmstadt.de/lehre/arbeiten/bachelor/2006/Baier_Hendrik.pdf
+* http://www.informatik.uni-trier.de/~fernau/DSL0607/Masterthesis-Viergewinnt.pdf
