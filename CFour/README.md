@@ -13,3 +13,16 @@ For 2 players.
 Adult assembly required.
 
 Connect 4 and all related characters are trademarks of Hasbro.
+
+## Anleitung (Übersetzung der englischen Anleitung)
+Fordern Sie einen Freund mit dem klassischen Spiel 4 Gewinnt zum Scheiben-Wurf-Spaß heraus! Werfen Sie Ihre roten oder gelben Scheiben in das Gitter und seien Sie der Erste, der mit 4 Steinen in einer Reihe gewinnt. Wenn jedoch Ihr Gegner der 4er Reihe zu nahe kommt, blocken Sie ihn mit einer eigenen Scheibe! Wer gewinnt, kann den Schieberegler herausziehen, um alle Scheiben freizugeben und der Spaß kann von vorne beginnen!
+
+Inklusive Gitter, 2 Beine, Schieber, 21 rote Scheiben, 21 gelbe Scheiben und Anleitung
+
+Ab 6 Jahren.
+
+Für 2 Spieler.
+
+Montage durch Erwachsene erforderlich.
+
+4 Gewinnt und alle dazugehörigen Charaktere sind Marken von Hasbro.
