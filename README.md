@@ -12,6 +12,7 @@ Hier findet ihr die Dokumentation rund um das Drehtürmodellprojekt.
 __kurzfristig__ (Nächster Präsentationstermin)
 * Spiel 1v1 an einem Rechner im Textmodus
 * Dokumentation vervollständigen
+* Plakat fertigen
 * erste Präsentation
 
 __mittelfristig__ (Folgetermin)
