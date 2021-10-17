@@ -6,6 +6,12 @@ Hier findet ihr die Dokumentation rund um das Drehtürmodellprojekt.
 |Datum|Eintrag|
 |-|-|
 |01.01.2021|Drehtürmodellprojekt startet|
+|-|-|
+|09.02.2021|Teilnahmebestätigung einreichen|
+|-|-|
+|25.05.2021|Erstes treffen der Teilnehmer per Videokonferenz(Vorstellung des Themas|
+|-|-|
+|12.10.2021|Veröffentlichung der Projekte|
 
 ## Agenda
 
