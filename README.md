@@ -2,29 +2,30 @@
 
 Hier findet ihr die Dokumentation rund um das Drehtürmodellprojekt.
 
+
 ## Logbuch
 |Datum|Eintrag|
 |-|-|
-|01.01.2021|Drehtürmodellprojekt startet|
-|09.02.2021|Teilnahmebestätigung einreichen|
+|09.02.2021|Drehtürmodellprojekt startet|
+|13.02.2021|Teilnahmebestätigung einreichen|
 |25.05.2021|Erstes treffen der Teilnehmer per Videokonferenz(Vorstellung des Themas|
+|01.09.2021|Entscheidung, noch ein Semester am Projekt zu arbeiten|
 |12.10.2021|Veröffentlichung der Projekte|
-|-|Entscheidung, noch ein Semester am Projekt zu arbeiten|
 
 
 ## Agenda
 
-__kurzfristig__ (Nächster Präsentationstermin)
+__kurzfristig__ (Nächste Ausstellung)
 * Spiel 1v1 an einem Rechner im Textmodus
 * Dokumentation vervollständigen
 * Plakat fertigen
-* erste Präsentation
 
 __mittelfristig__ (Folgetermin)
-* Addon Netzwerkspiel 1v1 programmieren
+* KI programmieren
 
 __langfristig__ (Danach)
-* KI programmieren
+* Addon Netzwerkspiel 1v1 programmieren
+
 
 ## Quellen
 
