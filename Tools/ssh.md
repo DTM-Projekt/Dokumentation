@@ -1,11 +1,18 @@
 # SSH (Secure Shell)
 Die Secure Shell wird für den sicheren Zugang auf `GitHub` mittels `git` benötigt.
 
-## Sicheren Zugang (SSH-PSK) einrichten
+## Sicherer Zugang (SSH-PSK) zu GitHub
 
-(1) Schlüsselpaar erzeugen:
+SSH-Sitzungen können mit Nutzer-Passwort-Kombinationen gestartet werden. 
+Eine zweite Möglichkeit ist die Nutzung eines sogenannten __Secure Shell Pre-Shared-Key__ (SSH-PSK).
+Dort erstellt der Nutzer zwei Schlüssel die zusammen den PSK ergeben.
+Der sogenannte öffentliche Teil-Schlüssel wird beim Dienstanbieter, z.B GitHub,  hinterlegt.
+Der private Teil-Schlüssel bleibt auf dem Rechner des Nutzers.
+Mit ihm können dann SSH-Sitzungen gestartet werden, ohne jedesmal eine Nutzer-Passwort-Kombination eingeben zu müssen.
 
-- `ssh-keygen -t rsa`
+(1) Schlüsselpaar mit einer Schlüssellänge von 4096 Bit erzeugen:
+
+- `ssh-keygen -t rsa -b 4096`
 - alle Fragen mit `<Enter>` bestätigen
 
 (2) öffentlichen Schlüssel in die Zwischenablage kopieren:
@@ -22,11 +29,6 @@ Die Secure Shell wird für den sicheren Zugang auf `GitHub` mittels `git` benöt
 
 (4) im sich öffnenden Dialog:
 
-- `Title:` beliebigen Namen vergeben (Bsp.: "MacZuHause")
+- `Title:` beliebigen Namen vergeben (Bsp.: "Rechner Zu Hause")
 - `Key`: den Inhalt der Zwischenablage einfügen
 - dann klicke `Add SSH key`
-
-(5) SSH-Zugang testen:
-
-- Repo mit git klonen
-- Repo pushen
