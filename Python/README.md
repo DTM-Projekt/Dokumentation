@@ -12,4 +12,7 @@ Diese Codebeispiele sollen später direkt in die Dokumentation übernommen werde
 
 >>> [str(x) for x in range(10)]
 ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+
+>>> list(map(lambda x:str(x),range(10)))
+['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 ```
