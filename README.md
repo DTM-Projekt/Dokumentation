@@ -10,13 +10,12 @@ Hier findet ihr die Dokumentation rund um das Drehtürmodellprojekt.
 |13.02.2021|Teilnahmebestätigung einreichen|
 |25.05.2021|Erstes treffen der Teilnehmer per Videokonferenz(Vorstellung des Themas|
 |01.09.2021|Entscheidung, noch ein Semester am Projekt zu arbeiten|
-|12.10.2021|Veröffentlichung der Projekte|
+|12.10.2021|Veröffentlichung der anderen Projekte|
 
 
 ## Agenda
 
 __kurzfristig__ (Nächste Ausstellung)
-* Spiel 1v1 an einem Rechner im Textmodus
 * Dokumentation vervollständigen
 * Plakat fertigen
 
