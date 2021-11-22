@@ -1,11 +1,11 @@
 # Sonderzeichen (UTF-8)
 
-Sonderzeichen sind Zeichen, die
+Sonderzeichen sind Zeichen, die ...
 
 * keine Buchstaben
 * keine Zahlen
 
-sind.
+... sind.
 
 ## Rahmen
 ```
