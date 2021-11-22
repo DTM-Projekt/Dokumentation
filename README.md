@@ -1,6 +1,6 @@
 # Dokumentation
 
-Hier findet ihr die Dokumentation rund um das Drehtürmodellprojekt.
+Hier findet ihr die Dokumentation rund um das Drehtürmodellprojekt 2021 am Gymnasium Bad Essen.
 
 
 ## Logbuch
