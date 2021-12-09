@@ -2,8 +2,8 @@
 
 Hier findet ihr die Dokumentation rund um das Drehtürmodellprojekt 2021 am Gymnasium Bad Essen.
 
-
 ## Logbuch
+
 |Datum|Eintrag|
 |-|-|
 |09.02.2021|Drehtürmodellprojekt startet|
@@ -11,7 +11,7 @@ Hier findet ihr die Dokumentation rund um das Drehtürmodellprojekt 2021 am Gymn
 |25.05.2021|Erstes treffen der Teilnehmer per Videokonferenz(Vorstellung des Themas|
 |01.09.2021|Entscheidung, noch ein Semester am Projekt zu arbeiten|
 |12.10.2021|Veröffentlichung der anderen Projekte|
-
+|06.12.2021|Entschluss, Objektorientiert statt Prozedural zu arbeiten|
 
 ## Agenda
 
@@ -24,7 +24,6 @@ __mittelfristig__ (Folgetermin)
 
 __langfristig__ (Danach)
 * Addon Netzwerkspiel 1v1 programmieren
-
 
 ## Quellen
 
