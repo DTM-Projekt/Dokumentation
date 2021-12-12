@@ -30,9 +30,7 @@ git pull
 
 Gelöschte Remote-Branches werden auch lokal gelöscht:
 ```
-git fetch --prune
-git pull --prune
-git remote update origin --prune
+git fetch --all --prune
 ```
 
 ---
