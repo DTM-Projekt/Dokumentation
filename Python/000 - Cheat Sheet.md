@@ -1,4 +1,6 @@
 # Cheat Sheet
+## Python
+Python ist eine Programmiersprache, di
 
 ## Variablen
 Eine Variable gibt Daten einen Namen.
