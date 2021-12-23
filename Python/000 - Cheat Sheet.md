@@ -56,4 +56,6 @@ Eine Zeichenkette ist eine Sonderform der Liste. Ihre Elemente bestehen aus Buch
 Beispiele:
 ```
 >>> string = 'Das ist 1 String!!!'
->>> string.append
+>>> string += ' Und Das wurde hinzugefügt!'
+>>> string 
+'Das ist 1 String!!! Und Das wurde hinzugefügt!' 
