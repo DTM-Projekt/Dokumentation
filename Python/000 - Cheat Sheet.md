@@ -1,7 +1,6 @@
 # Cheat Sheet
 
 ## Variablen
-
 Eine Variable gibt Daten einen Namen.
 
 Dabei gilt:
@@ -31,9 +30,25 @@ Beispiele:
 ## Gleitkommazahlen (Float)
 Eine Gleitkommazahl ist eine Zahl aus der Menge der Rationalen Zahlen (R).
 
+Beispiele:
+```
+>>> 5.5
+5.5
+>>> -1/3
+-0.3333333333333333
+>>> 0.01*100
+1.0
+```
 
 ## Listen (List)
 Eine Liste ist eine Verkettung von Elementen. Ein Element kann beliebigen Datentyps sein.
+
+Beispiele:
+```
+>>> list = ['Tolle', 'Liste']
+>>> [1, -1, 1+3, 'Drei', -0.88, list]
+[1, -1, 4, 'Drei', -0.88, ['Tolle', 'Liste']]
+```
 
 ## Zeichenketten (String)
 Eine Zeichenkette ist eine Sonderform der Liste. Ihre Elemente bestehen aus Buchstaben, Zahlen oder Sonderzeichen.
