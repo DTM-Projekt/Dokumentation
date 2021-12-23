@@ -52,3 +52,8 @@ Beispiele:
 
 ## Zeichenketten (String)
 Eine Zeichenkette ist eine Sonderform der Liste. Ihre Elemente bestehen aus Buchstaben, Zahlen oder Sonderzeichen.
+
+Beispiele:
+```
+>>> string = 'Das ist 1 String!!!'
+>>> string.append
