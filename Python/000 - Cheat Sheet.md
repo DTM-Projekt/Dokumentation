@@ -18,6 +18,8 @@ Variablen können verschiedene Datentypen aufnehmen:
 ## Ganzzahlen (Integer)
 Eine Ganzzahl ist eine Zahl aus der Menge der Ganzen Zahlen (Q).
 
+Beispiele:
+
 ## Gleitkommazahlen (Float)
 Eine Gleitkommazahl ist eine Zahl aus der Menge der Rationalen Zahlen (R).
 
