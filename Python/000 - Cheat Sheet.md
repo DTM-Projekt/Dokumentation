@@ -1,6 +1,10 @@
 # Cheat Sheet
 ## Python
-Python ist eine Programmiersprache, di
+Python ist eine Programmiersprache, die einfach zu erlernen ist und in Wissenschaft und Technik weit verbreitet ist.
+Der Name entstand nicht wie viele denken,
+durch die gleichnamige Schlange,
+sondern durch die Komikergruppe 'Monty Python',
+von denen der Python Entwickler Guido van Rossum ein großer Fan war.
 
 ## Variablen
 Eine Variable gibt Daten einen Namen.
