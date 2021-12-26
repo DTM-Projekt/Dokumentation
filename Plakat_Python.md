@@ -50,4 +50,4 @@ Der Schleifenkörper wird um mindestens ein Leerzeichen gegenüber dem Schleifen
 ## Bildschirmausgabe (Zeile 11)
 Wenn die Schleife das letzte Mal durchlaufen wurde,
 d.h. wenn der Spieler die richtige Zahl getippt hatte,
-dann wird auf dem Bildschirm eine Erfolgsmeldung und die Anzahl der Versuche augegeben.
+dann wird auf dem Bildschirm eine Erfolgsmeldung und die Anzahl der Versuche ausgegeben.
