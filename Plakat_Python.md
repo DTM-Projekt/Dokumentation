@@ -30,7 +30,7 @@ Python unterscheidet zwischen verschiedenen Datentypen, wie etwa Zahlen und Zeic
 
 ## Schleifenkopf (Zeile 4)
 Der unter dem Schleifenkopf notierte Schleifenkörper wird wiederholt,
-solange die Variablen `versuch` und 'geheimnis` nicht gleich (ungleich) sind.
+solange die Variablen `versuch` und `geheimnis` nicht gleich (ungleich) sind.
 
 ## Schleifenkörper (Zeilen 5-10)
 
