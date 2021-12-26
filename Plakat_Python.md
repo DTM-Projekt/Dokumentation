@@ -7,8 +7,7 @@ sondern durch die Komikergruppe 'Monty Python',
 von denen der Python Entwickler Guido van Rossum ein großer Fan war.
 
 Programme bestehen aus Anweisungen.
-Die wichtigsten Python-Anweisungen
-möchte ich euch anhand eines kleinen Programms vorstellen.
+Die wichtigsten Python-Anweisungen möchte ich euch anhand eines kleinen Programms vorstellen.
 
 ## Das Programm "Zahlenraten"
 ```
@@ -26,14 +25,12 @@ möchte ich euch anhand eines kleinen Programms vorstellen.
 ```
 
 ## Initialisierung von Variablen (Zeilen 1-3)
-Bei der Initialisierung werden die für das Spiel benötigten Variablen angelegt. Python unterscheidet zwischen verschiedenen Datentypen, wie etwa Zahlen und Zeichenketten.
+Bei der Initialisierung werden die für das Spiel benötigten Variablen angelegt.
+Python unterscheidet zwischen verschiedenen Datentypen, wie etwa Zahlen und Zeichenketten.
 
 ## Schleifenkopf (Zeile 4)
-Der unter dem Schleifenkopf
-notierte Schleifenkörper
-wird solange durchgeführt,
-wie die genannte Bedingung
-(versuch UNGLEICH geheimnis)
+Der unter dem Schleifenkopf notierte Schleifenkörper wird wiederholt,
+solange die Variablen `versuch` und 'geheimnis` nicht gleich (ungleich) sind.
 
 ## Schleifenkörper (Zeilen 5-10)
 
