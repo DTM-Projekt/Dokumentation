@@ -31,8 +31,23 @@ Python unterscheidet zwischen verschiedenen Datentypen, wie etwa Zahlen und Zeic
 ## Schleifenkopf (Zeile 4)
 Der unter dem Schleifenkopf notierte Schleifenkörper wird wiederholt,
 solange die Variablen `versuch` und `geheimnis` nicht gleich (ungleich) sind.
+Ein erneuter Durchlauf findet nicht statt,
+wenn beide Variablen gleich sind.
 
 ## Schleifenkörper (Zeilen 5-10)
-
+Der Schleifenkörper wird um mindestens ein Leerzeichen gegenüber dem Schleifenkopf nach rechts eingerückt.
+- Zeile 5:
+  - vom Spieler wird eine Zahl erfragt und in der Variable `versuch` gespeichert
+- Zeile 6-7:
+  - wenn die Variable `versuch` kleiner als die gesuchte Zahl ist, dann
+  - gib den Text "Zu klein" aus
+- Zeile 8-9:
+  - wenn die Variable `versuch` größer als die gesuchte Zahl ist, dann
+  - gib den Text "Zu groß" aus
+- Zeile 10:
+  - erhöhe den Wert der Variable `zaehler` um eins
 
 ## Bildschirmausgabe (Zeile 11)
+Wenn die Schleife das letzte Mal durchlaufen wurde,
+d.h. wenn der Spieler die richtige Zahl getippt hatte,
+dann wird auf dem Bildschirm eine Erfolgsmeldung und die Anzahl der Versuche augegeben.
