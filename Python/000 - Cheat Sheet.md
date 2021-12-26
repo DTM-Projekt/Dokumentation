@@ -1,6 +1,6 @@
-# Cheat Sheet
-## Python
-Python ist eine Programmiersprache, die einfach zu erlernen ist und in Wissenschaft und Technik weit verbreitet ist.
+# Python
+Python ist eine leicht zu erlernende Programmiersprache.
+Sie ist in Wissenschaft und Technik weit verbreitet.
 Der Name entstand nicht wie viele denken,
 durch die gleichnamige Schlange,
 sondern durch die Komikergruppe 'Monty Python',
