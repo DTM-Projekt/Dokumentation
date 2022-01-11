@@ -65,3 +65,59 @@ Beispiele:
 >>> string += ' Und Das wurde hinzugefügt!'
 >>> string 
 'Das ist 1 String!!! Und Das wurde hinzugefügt!' 
+
+
+## If-Anweisung
+
+Die if-Anweisung führt -wenn eine vorgegebene Bedingung zutrifft- bestimmten Code aus.
+
+
+Dabei gilt:
+```
+if (Bedingungsüberprüfung):
+    Ausführungsanweisung
+```
+
+Die if-Anweisung kann Werte jeden Datentyps überprüfen.
+
+
+## Else-Anweisung
+
+Die Else Anweisung führt, wenn die if-Bedingung und ggf. die elif-Bedingung(en) nicht zutrifft, bestimmten Code aus.
+
+Dabei gilt:
+```
+if (Bedingungsüberprüfung):
+    Ausführungsanweisung
+
+else()
+    Ausführungsanweisung
+```
+
+
+## Elif-Anweisung
+
+Die Elif Aweisung führt, wenn die if-Bedingung nicht zutrifft und die elif-bedingung zutrifft, bestimmten Code aus.
+
+Dabei gilt:
+```
+if (Bedingungsüberprüfung)
+    Ausführungsanweisung
+
+elif (Bedingungsüberprüfung)
+    Ausführungsanweisung
+
+else ()
+    Ausführungsanweisung
+```
+
+
+## While-Schleife
+
+Die while-Schleife führt, SOLANGE eine Bedingung zutrifft, bestimmten Code immer wieder aus.
+
+Dabei gilt:
+```
+While(Parameter):
+    Ausführungsanweisung
+```
