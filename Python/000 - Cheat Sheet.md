@@ -23,49 +23,18 @@ Variablen können verschiedene Datentypen aufnehmen:
 ## Ganzzahlen (Integer)
 Eine Ganzzahl ist eine Zahl aus der Menge der Ganzen Zahlen (Q).
 
-Beispiele:
-```
->>> 15
-15
->>> -72
--72
->>> 3*(-6)
--18
-```
 
 ## Gleitkommazahlen (Float)
-Eine Gleitkommazahl ist eine Zahl aus der Menge der Rationalen Zahlen (R).
+Eine Gleitkommazahl ist eine Zahl aus der Menge der Rationalen Zahlen (R)
 
-Beispiele:
-```
->>> 5.5
-5.5
->>> -1/3
--0.3333333333333333
->>> 0.01*100
-1.0
-```
 
 ## Listen (List)
 Eine Liste ist eine Verkettung von Elementen. Ein Element kann beliebigen Datentyps sein.
 
-Beispiele:
-```
->>> list = ['Tolle', 'Liste']
->>> [1, -1, 1+3, 'Drei', -0.88, list]
-[1, -1, 4, 'Drei', -0.88, ['Tolle', 'Liste']]
-```
 
 ## Zeichenketten (String)
 Eine Zeichenkette ist eine Sonderform der Liste. Ihre Elemente bestehen aus Buchstaben, Zahlen oder Sonderzeichen.
 
-Beispiele:
-```
->>> string = 'Das ist 1 String!!!'
->>> string += ' Und Das wurde hinzugefügt!'
->>> string 
-'Das ist 1 String!!! Und Das wurde hinzugefügt!' 
-```
 
 ## If-Anweisung
 
@@ -80,20 +49,15 @@ if (Bedingungsüberprüfung):
 
 Die if-Anweisung kann Werte jeden Datentyps überprüfen.
 
-
-## Else-Anweisung
-
-Die Else Anweisung führt, wenn die if-Bedingung und ggf. die elif-Bedingung(en) nicht zutrifft, bestimmten Code aus.
-
-Dabei gilt:
+Beispiel:
 ```
-if (Bedingungsüberprüfung):
-    Ausführungsanweisung
-
-else()
-    Ausführungsanweisung
+a = 10
+if (a == 10):
+    print (a entspricht 10.)
 ```
-
+'#' 1. Zeile: Die Variable a mit dem Inhalt 10 wird geschaffen.
+'#' 2. Zeile: Das if überprüft ob die Variable a den Inhalt 10 hat.
+'#' 3. Zeile: Das print sorgt dafür, dass, wenn das Ereignis der Abfrage positiv
 
 ## Elif-Anweisung
 
