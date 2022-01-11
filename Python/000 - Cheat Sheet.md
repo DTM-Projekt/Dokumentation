@@ -132,7 +132,6 @@ Dabei gilt:
 def Name(Parameter)
     Code
 
-print (Name)
 ```
 
 In Python gibt es eine Bibliothek von voreinprogrammierten Funktionen.
