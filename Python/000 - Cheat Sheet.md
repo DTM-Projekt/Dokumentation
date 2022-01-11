@@ -65,7 +65,7 @@ Beispiele:
 >>> string += ' Und Das wurde hinzugefügt!'
 >>> string 
 'Das ist 1 String!!! Und Das wurde hinzugefügt!' 
-
+```
 
 ## If-Anweisung
 
