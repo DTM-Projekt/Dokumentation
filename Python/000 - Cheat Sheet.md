@@ -121,3 +121,19 @@ Dabei gilt:
 While(Parameter):
     Ausführungsanweisung
 ```
+
+
+## Funktionen
+
+Eine Funktion ist ein benanntes Unterprogramm auf das im Quellcode zugegriffen werden kann.
+
+Dabei gilt:
+```
+def Name(Parameter)
+    Code
+
+print (Name)
+```
+
+In Python gibt es eine Bibliothek von voreinprogrammierten Funktionen.
+Ein Beispiel dafür ist die Funktion 'print', bei der, die in das Parameterfeld eingegebenen Parameter ausgegeben werden.
