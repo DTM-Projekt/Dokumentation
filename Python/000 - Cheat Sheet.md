@@ -76,6 +76,24 @@ else ()
 ```
 
 
+## Else-Anweisung
+
+Die else-Anweisung führt, wenn die if-Bedingung und die elif-Bedingung nicht zutreffen, bestimmten Code aus.
+
+Dabei gilt: 
+```
+
+if (Bedingungsüberprüfung)
+    Ausführungsanweisung
+
+elif (Bedingungsüberprüfung)
+    Ausführungsanweisung
+
+else ()
+    Ausführungsanweisung
+```
+
+    
 ## While-Schleife
 
 Die while-Schleife führt, SOLANGE eine Bedingung zutrifft, bestimmten Code immer wieder aus.
